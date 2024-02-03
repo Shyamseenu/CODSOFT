@@ -1,4 +1,4 @@
-##CODSOFT
+## CODSOFT
 
 This repository contains three Python programs developed in the Colab environment under the MIT license. Each program focuses on a different aspect of data science: Credit Card Analysis, Movie Recommendation System, and Advertisement Analysis.
 
